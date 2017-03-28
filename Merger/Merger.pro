@@ -33,3 +33,6 @@ FORMS    += mergerwindow.ui
 QT_CONFIG -= no-pkg-config
 CONFIG  += link_pkgconfig
 PKGCONFIG += opencv
+
+DISTFILES += \
+    DSC_1930.jpg
